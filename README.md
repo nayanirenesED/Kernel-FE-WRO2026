@@ -229,7 +229,7 @@ We confirmed that both the multiplexer (0x70) and IMU (0x4b) are detected on the
 | IMX708 12MP camera | ✅ Active | Line detection, obstacle detection, navigation |
 | VL53L0X ×3 | 🔜 Future | Precise distance to obstacles and walls |
 | BNO08X IMU | 🔜 Future | Heading correction and orientation |
-| SPIKE Color Sensor | Port C | Available as backup |
+| SPIKE Color Sensor | V1 only | Used in V1, not present in V2 |
 
 ### Wiring Diagram
 
