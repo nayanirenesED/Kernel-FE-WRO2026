@@ -202,5 +202,11 @@ The camera-only decision for this regional is also an engineering choice we're p
 
 ---
 
+## April 16, 2026 — Power Cable Failure
+
+During testing today, the positive power cable connecting the LX-2BUPS to the Build HAT broke. We need to repair or replace it before Saturday's competition. This is exactly the kind of failure point we identified in our risk analysis: Physical connections under repeated stress can fail. We're resoldering the cable today.
+
+---
+
 *Journal maintained by Team KERNEL — Barceloneta, Puerto Rico 🇵🇷*
 
