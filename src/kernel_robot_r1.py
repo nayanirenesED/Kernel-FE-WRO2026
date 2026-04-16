@@ -17,7 +17,7 @@ VISION_URL      = "http://localhost:5000/detections"
 MOTOR_TRACCION  = 'A'       # Motor grande — Puerto A
 MOTOR_DIRECCION = 'B'       # Motor mediano — Puerto B
 
-VELOCIDAD       = -40       # % velocidad de tracción (negativo = adelante)
+VELOCIDAD       = 40       # % velocidad de tracción (positivo = adelante)
 ANGULO_GIRO     = 90        # Grados para doblar en esquina
 ANGULO_CENTRO   = 0         # Centro del motor de dirección
 VUELTAS_META    = 3         # Vueltas a completar
