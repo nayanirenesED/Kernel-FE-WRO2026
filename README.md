@@ -362,7 +362,6 @@ Kernel-FE-WRO2026/
 │   ├── wiring_diagram.png
 │   └── cad/
 │       ├── rim.stl
-│       ├── tire.stl
 │       └── battery_case.stl
 ├── docs/
 │   └── engineering_journal.md
@@ -378,7 +377,6 @@ Kernel-FE-WRO2026/
     ├── robot_interior.jpg
     ├── robot_on_track.jpg
     ├── battery_case.jpg
-    ├── wheels.jpg
     ├── test_multiplexer_imu.jpg
     ├── test_i2cdetect.jpg
     ├── test_imu_output.jpg
