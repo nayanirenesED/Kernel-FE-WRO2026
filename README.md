@@ -1,7 +1,7 @@
 # 🤖 KERNEL — WRO Future Engineers 2026
 
 <p align="center">
-  <img src="media/robot_v1_right.jpg" alt="KERNEL Robot" width="600"/>
+  <img src="media/robot_front.jpg" alt="KERNEL Robot" width="600"/>
 </p>
 
 > **World Robot Olympiad 2026 – Future Engineers**  
@@ -185,7 +185,7 @@ After researching options and testing different setups, our solution is **two 18
 To keep the power system secure on the robot, we designed and printed a custom case that holds the LX-2BUPS module and the two 18650 cells together in one unit. Having the power system loose wasn't an option for competition.
 
 <p align="center">
-  <img src="media/battery_case.jpg" alt="Custom battery case" width="400"/>
+  <img src="media/battery_case_front.jpg" alt="Custom battery case" width="400"/>
 </p>
 
 ### What We Know and What We're Still Testing
@@ -366,21 +366,30 @@ Kernel-FE-WRO2026/
 ├── docs/
 │   └── engineering_journal.md
 └── media/
+    ├── robot_front.jpg
+    ├── robot_rear.jpg
+    ├── robot_side_left.jpg
+    ├── robot_side_right.jpg
+    ├── robot_top.jpg
+    ├── robot_bottom.jpg
     ├── robot_v1_top.jpg
     ├── robot_v1_front.jpg
     ├── robot_v1_rear.jpg
     ├── robot_v1_left.jpg
     ├── robot_v1_right.jpg
     ├── robot_v1_bottom.jpg
-    ├── robot_front.jpg
-    ├── robot_top.jpg
-    ├── robot_interior.jpg
-    ├── robot_on_track.jpg
-    ├── battery_case.jpg
+    ├── battery_case_front.jpg
+    ├── battery_case_side.jpg
+    ├── battery_case_back.jpg
+    ├── battery_case_usbc.jpg
+    ├── battery_case_interior.jpg
+    ├── test_color_detection.jpg
     ├── test_multiplexer_imu.jpg
     ├── test_i2cdetect.jpg
     ├── test_imu_output.jpg
-    └── test_color_detection.jpg
+    ├── test_network_config.jpg
+    ├── test_bug_lap_counting.jpg
+    └── design_sketch.jpg
 ```
 
 ---
