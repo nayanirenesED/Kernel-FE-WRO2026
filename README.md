@@ -151,7 +151,7 @@ V2 currently runs on standard LEGO wheels. The custom wheel design is in progres
 - **Tire:** TPU (or similar flexible filament) for better grip on the competition surface
 
 <p align="center">
-  <img src="media/wheels.jpg" alt="Custom wheel design" width="400"/>
+  <img src="hardware/cad/rim_design.png" alt="Rim CAD design in Fusion 360" width="400"/>
 </p>
 
 ---
